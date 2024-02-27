@@ -12,9 +12,6 @@ Flutter Enthusiast 🚀 | Passionate Code Crafter
 
 Connect with me on GitHub and let’s build amazing things together! 🤝
 
-![DaV212001 GitHub stats](https://github-readme-stats.vercel)
-
-
 
 <!---
 DaV212001/DaV212001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
