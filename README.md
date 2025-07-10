@@ -1,6 +1,6 @@
 Flutter Enthusiast 🚀 | Passionate Code Crafter
 
-📱 Mobile app developer with 1+ years of hands-on experience in Flutter.
+📱 Mobile app developer with 2+ years of hands-on experience in Flutter.
 
 🎨 Crafting pixel-perfect UIs and architecting clean, maintainable code.
 
